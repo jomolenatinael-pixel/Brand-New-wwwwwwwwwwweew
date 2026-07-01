@@ -1,0 +1,6 @@
+{
+  "name": "Arekahub",
+  "description": "Next-Generation AI Learning Platform for Grade 10 Students with AI Tutor, Smart Quizzes, Study Planners, and Community Chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
